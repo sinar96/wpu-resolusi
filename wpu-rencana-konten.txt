@@ -1,5 +1,7 @@
 Rencana konten 
 - Javascript
+   * ES6 Javascript
+   * Framework javascript
 - php framework
 - interview
 - vlog
